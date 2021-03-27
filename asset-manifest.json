@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bebidas-api/static/css/main.aa9a411a.chunk.css",
+    "main.js": "/bebidas-api/static/js/main.fc3000b9.chunk.js",
+    "main.js.map": "/bebidas-api/static/js/main.fc3000b9.chunk.js.map",
+    "runtime-main.js": "/bebidas-api/static/js/runtime-main.ac39106a.js",
+    "runtime-main.js.map": "/bebidas-api/static/js/runtime-main.ac39106a.js.map",
+    "static/js/2.37b7a5b9.chunk.js": "/bebidas-api/static/js/2.37b7a5b9.chunk.js",
+    "static/js/2.37b7a5b9.chunk.js.map": "/bebidas-api/static/js/2.37b7a5b9.chunk.js.map",
+    "static/js/3.a88b8af0.chunk.js": "/bebidas-api/static/js/3.a88b8af0.chunk.js",
+    "static/js/3.a88b8af0.chunk.js.map": "/bebidas-api/static/js/3.a88b8af0.chunk.js.map",
+    "index.html": "/bebidas-api/index.html",
+    "static/css/main.aa9a411a.chunk.css.map": "/bebidas-api/static/css/main.aa9a411a.chunk.css.map",
+    "static/js/2.37b7a5b9.chunk.js.LICENSE.txt": "/bebidas-api/static/js/2.37b7a5b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac39106a.js",
+    "static/js/2.37b7a5b9.chunk.js",
+    "static/css/main.aa9a411a.chunk.css",
+    "static/js/main.fc3000b9.chunk.js"
+  ]
+}
