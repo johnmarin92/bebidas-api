@@ -66,7 +66,7 @@ const Formulario = () => {
                     <input
                         type="submit"
                         className="btn btn-block btn-primary"
-                        value="Busccar Bebidas"
+                        value="Buscar Bebidas"
                     />
                 </div>
             </div>
